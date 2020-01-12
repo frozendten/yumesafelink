@@ -1,6 +1,6 @@
 var wpsafelink = "http://maulandaru.id/?go=";
 var domain = ["mega.nz","mir.cr","mirrorace.com","mirrored.to","drive.google.com","solidfiles.com","solidfiles.com","1fichier.com","wdfiles.ru","racaty.com","anonfiles.com","sendit.cloud",];
-var exclude_domain = ["",];
+var exclude_domain = ["yumeost.com","maulandaru.com","bit.ly","www.yumeost.com","www.maulandaru.com"];
 var els = document.getElementsByTagName("a"); 
 for(var i = 0, l = els.length; i < l; i++) {	
 	var el = els[i]; 
